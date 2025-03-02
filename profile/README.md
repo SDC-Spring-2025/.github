@@ -14,7 +14,8 @@ Project Meetings are every other non-break week starting **2/16** besides the pr
 
 | Date | Benchmark | Details | Slides |
 |:---:|:--------:|:------------:|:--------:|
-|2/16| Project Meeting | Projects Introduction and Overview | [Slides]([https://docs.google.com/presentation/d/1o8j933UMRYajCHNd2jFR2NGmcU2Ob2v_K5UTcn6EkwU/edit#slide=id.g18bd64ff9fd_0_6](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit?usp=sharing))|
+|2/16| Project Meeting | Projects Introduction and Overview | [Slides](https://docs.google.com/presentation/d/1bygzhF6HJ81oN6XbnJ_ltnjrmvVwy_xJNgTMXau5_9c/edit#slide=id.p)|
+|3/2| PM2 | Frameworks + Git Setup | [Slides](https://docs.google.com/presentation/d/125zxaDol2XZp0ZhTYEArdIzya19MPz1sswGP2E1HKas/edit#slide=id.p)
 
 ### About the Timeline
 We will discuss each of the parts of the timeline in more detail during our project meetings. Keep in mind, the timeline is only a guideline, and feel free to work at your own pace!
